@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 761D-A8AD
+
+ Directory of C:\Users\KPMG\Desktop\KPMG_DEMO_GITTP
+
+02/20/2018  12:40 PM    <DIR>          .
+02/20/2018  12:40 PM    <DIR>          ..
+02/20/2018  12:40 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  403,444,944,896 bytes free
